@@ -1,8 +1,8 @@
 # RPG1
 Random Pixel Generated RPG
 
-play online:
+play online:  
 http://rpg1.penduin.net
 
-manual:
+manual:  
 http://rpg1.penduin.net/manual.html
