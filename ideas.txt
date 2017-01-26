@@ -1,0 +1,71 @@
+RPG1: random, machine-designed characters and worlds
+
+random pixle generator
+role playing game
+rules paths generations
+
+motif per room
+  brick, ruins, city, nature
+when building, mostly keep from-room's motif
+motifs look different to different people
+  some: unrecognized grey jumbles (checker, X bg)
+motif plus color? gradual mutate colors when build
+  some see only city/nature in color?
+  safe paalete of colors? try random ranges first
+
+way
+who are you
+what ask you
+where adventures yank
+yards yiest yesterday yoho yoke yolk youth young yours
+
+mutation station
+  alter bits at random
+doctor
+  advice? improve?
+laboratory
+  view all properties?
+
+who are you?
+pick a pixel person and live.
+
+meet others
+
+learn
+follow you
+make offspring
+be me
+teach
+follow me
+family tree
+eat me
+mutate you
+merge together
+take my map
+take my crown
+trade feet
+trade eyes
+trade color
+trade shape
+
+learn, expose the world
+any pixon sees the world differently
+some pixons invisible to others
+learn opaque traits
+
+world generated and visible by random seed
+obstacles passable/visible by opaque traits
+
+max number of traits - half? tenth?
+
+traits/actions for aggrrssion?
+
+100 rooms, not quite 100 people
+each rooms borders opaque/white where impassable
+some can see color layers in barriers
+some affect/clear/create barriers
+can follow across borders
+
+make offspring kills one or both parents if population goes above 100
+
+stats lab, see individual's traits

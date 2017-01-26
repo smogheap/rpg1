@@ -1,0 +1,23 @@
+{
+	"short_name": "RPG1",
+	"name": "RPG1",
+	"version": "1.0",
+	"description": "Random Pixel Generated RPG",
+	"launch_path": "/index.html",
+	"start_url": "/index.html",
+	"icons": [
+		{
+			"src": "image/icon192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	],
+	"developer": {
+		"name": "penduin",
+		"url": "http://penduin.net"
+	},
+	"installs_allowed_from": [ "*" ],
+	"appcache_path": "/rpg1.appcache",
+	"display": "standalone",
+	"fullscreen": "true"
+}
